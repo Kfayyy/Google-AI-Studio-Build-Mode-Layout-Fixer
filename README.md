@@ -1,6 +1,6 @@
 # Google AI Studio - Build Mode Preview Resizer
 
-[![Instal Script](https://img.shields.io/badge/Tampermonkey-Installer_le_Script-green.svg)](https://raw.githubusercontent.com/Kfayyy/Google-AI-Studio-Build-Mode-Layout-Fixer/main/Google-AI-Studio-Layout-Fixer.user.js))
+[![Instal Script](https://img.shields.io/badge/Tampermonkey-Installer_le_Script-green.svg)](https://raw.githubusercontent.com/Kfayyy/Google-AI-Studio-Build-Mode-Layout-Fixer/main/Google-AI-Studio-Layout-Fixer.user.js)
 
 A lightweight userscript that fixes the broken layout in Google AI Studio's **Build Mode**, making your workspace clean, ergonomic, and fully readable on any screen resolution.
 
