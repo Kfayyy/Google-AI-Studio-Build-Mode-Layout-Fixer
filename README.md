@@ -1,4 +1,4 @@
-# Google AI Studio - Build Mode Preview Resizer
+# Google AI Studio Build - Larger Chat (Resizable)
 
 [![Instal Script](https://img.shields.io/badge/Tampermonkey-Installer_le_Script-green.svg)](https://raw.githubusercontent.com/Kfayyy/Google-AI-Studio-Build-Mode-Layout-Fixer/main/Google-AI-Studio-Layout-Fixer.user.js)
 
